@@ -11,6 +11,10 @@ You can consider it as part of bugbounty too
 **The Name is just a Fun part about learn until you die**
 
 **Motto of the Repo**
-'''
+```
 * To Improve our learning habit 
-* To 
+* Be Persistent
+* Have consistency 
+* We all learn together and that's what the
+Best community we have 
+```
