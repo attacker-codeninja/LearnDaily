@@ -9,3 +9,8 @@ This Repo will cover about improving our own knowledge in Pentesting or even
 You can consider it as part of bugbounty too
 
 **The Name is just a Fun part about learn until you die**
+
+**Motto of the Repo**
+'''
+* To Improve our learning habit 
+* To 
