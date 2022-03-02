@@ -4,6 +4,7 @@
 
 [Asset discovery and Mapping](https://0xpatrik.com/asset-discovery/?source=post_page---------------------------)
 
+[Censys Guide ](https://0xpatrik.com/censys-guide/)
 
 # New Tools Found
 
