@@ -6,6 +6,7 @@
 
 [Censys Guide ](https://0xpatrik.com/censys-guide/)
 
+[Fundamentals of Recon by codingo](https://youtu.be/DABPWQ40yb0)
 # New Tools Found
 
 https://github.com/dxa4481/Snapper
