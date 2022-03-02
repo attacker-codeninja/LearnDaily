@@ -10,6 +10,9 @@
 
 https://github.com/dxa4481/Snapper
 
+https://github.com/ZephrFish/GoogD0rker/
+
+https://github.com/1N3/Goohak
 
 https://github.com/bonino97/LemonBooster-v2
 
@@ -18,3 +21,12 @@ https://github.com/bonino97/LemonBooster-v2
 
 https://github.com/Quikko/Recon-Methodology
 
+# Tweet Threads for Recon 
+
+https://mobile.twitter.com/intigriti/status/1116447376544280578
+
+https://mobile.twitter.com/s0md3v/status/1151759042785632256
+
+https://mobile.twitter.com/intigriti/status/1108365683069456385
+
+https://mobile.twitter.com/Th3G3nt3lman/status/1104111564632797186
