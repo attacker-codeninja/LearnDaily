@@ -30,3 +30,7 @@ https://mobile.twitter.com/s0md3v/status/1151759042785632256
 https://mobile.twitter.com/intigriti/status/1108365683069456385
 
 https://mobile.twitter.com/Th3G3nt3lman/status/1104111564632797186
+
+https://mobile.twitter.com/gwendallecoguic/status/1187000587612762112
+
+https://mobile.twitter.com/imhaxormad/status/1118289299152072706
