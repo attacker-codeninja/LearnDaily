@@ -3,3 +3,9 @@
 # Videos to look
 
 [ Effective way of using Amass ](https://youtu.be/yCZqgg-GNx8)
+
+
+# Useful twitter threads
+
+
+
