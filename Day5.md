@@ -4,6 +4,9 @@
 
 [ Effective way of using Amass ](https://youtu.be/yCZqgg-GNx8)
 
+# Blogs to Read
+
+[ Subdomain takeover basics by 0xpatrik ](https://0xpatrik.com/subdomain-takeover-basics/)
 
 # Useful twitter threads
 
