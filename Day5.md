@@ -8,8 +8,9 @@
 # Useful twitter threads
 
 [ Spiderfoot and OSINT](https://mobile.twitter.com/hackermaderas/status/1181970321588572160)
+
 [ Sensitive Information disclosure findings through Github ](https://mobile.twitter.com/nullenc0de/status/1166539906832879616)
 
-
+[ ASN information gathering tip by nahamsec ](https://mobile.twitter.com/C1h2e11/status/1163806579474329600)
 
 
