@@ -8,6 +8,7 @@
 
 [ Subdomain takeover basics by 0xpatrik ](https://0xpatrik.com/subdomain-takeover-basics/)
 
+[ Facebook Recon leads to debug information](https://omespino.com/facebook-bug-bounty-getting-access-to-prompt-debug-dialog-and-serialized-tool-on-main-website-facebook-com/)
 # Useful twitter threads
 
 [ Spiderfoot and OSINT](https://mobile.twitter.com/hackermaderas/status/1181970321588572160)
