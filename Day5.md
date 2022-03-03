@@ -13,4 +13,4 @@
 
 [ ASN information gathering tip by nahamsec ](https://mobile.twitter.com/C1h2e11/status/1163806579474329600)
 
-
+[ Oneliners to retrieve the ASN of company](https://mobile.twitter.com/gwendallecoguic/status/1199372098839437317)
