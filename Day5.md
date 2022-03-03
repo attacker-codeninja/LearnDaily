@@ -14,3 +14,5 @@
 [ ASN information gathering tip by nahamsec ](https://mobile.twitter.com/C1h2e11/status/1163806579474329600)
 
 [ Oneliners to retrieve the ASN of company](https://mobile.twitter.com/gwendallecoguic/status/1199372098839437317)
+
+[ Hakluke Tip to get ASN of an organization with Whois and dig ](https://mobile.twitter.com/hakluke/status/1199266508280434689)
