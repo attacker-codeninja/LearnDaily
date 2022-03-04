@@ -10,6 +10,7 @@
 
 [Guide By Ghost lulz](https://medium.com/@ghostlulzhacks/github-osint-1e8a96f9fdb8)
 
+[Ed Overflow research on CI integrations](https://edoverflow.com/2019/ci-knew-there-would-be-bugs-here/)
 # Tools found
 
 https://github.com/hisxo/gitGraber
