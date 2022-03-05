@@ -3,6 +3,7 @@
 # Videos to watch
 
 [Tomnomnom Guide towards JS vulns](https://youtu.be/FTeE3OrTNoA)
+
 [Zseano Guide](https://youtu.be/0jM8dDVifaI)
 
 
