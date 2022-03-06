@@ -13,3 +13,7 @@
 [ Local Privilege Escalation-2 ](https://hackingthe.cloud/aws/exploitation/local-priv-esc-user-data-s3/)
 
 [ Automating Subdomain Takeover ](https://hackingthe.cloud/aws/exploitation/orphaned_%20cloudfront_or_dns_takeover_via_s3/)
+
+# Tools
+
+[ Monitoring s3 buckets ](https://github.com/houey/dwatch)
