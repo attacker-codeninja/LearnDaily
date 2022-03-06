@@ -23,3 +23,5 @@
 [ Monitoring s3 buckets ](https://github.com/houey/dwatch)
 
 [ Cloud pentesting checklist ](https://966351423-files.gitbook.io/~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-LmdDaax1PAvLD05wJYt%2F-MTeDnW7dPN78LkyDT-A%2F-MTePrNhv6VBrRZoDW-k%2Fimage.png?alt=media&token=f45b9cf9-f913-439b-b5fa-f341c3239a88)
+
+[ Track changes on list of domains ](https://github.com/Rowno/medic)
