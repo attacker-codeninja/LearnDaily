@@ -2,6 +2,8 @@
 
 # Blogs to Read 
 
+[ Setting Up a Subdomain takeover monitor ](https://hakluke.medium.com/how-to-setup-an-automated-sub-domain-takeover-scanner-for-all-bug-bounty-programs-in-5-minutes-3562eb621db3)
+
 [ Stealing Metadata Credentials with SSRF ](https://hackingthe.cloud/aws/exploitation/ec2-metadata-ssrf/)
 
 [ IAM privilege Escalation ](https://hackingthe.cloud/aws/exploitation/iam_privilege_escalation/)
