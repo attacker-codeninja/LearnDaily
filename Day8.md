@@ -9,3 +9,5 @@
 [ Stealing IAM credentials through proc env](https://hackingthe.cloud/aws/exploitation/lambda-steal-iam-credentials/)
 
 [ Local Privilege Escalation-1 ](https://hackingthe.cloud/aws/exploitation/local-priv-esc-mod-instance-att/)
+
+[ Local Privilege Escalation-2 ](https://hackingthe.cloud/aws/exploitation/local-priv-esc-user-data-s3/)
