@@ -7,3 +7,5 @@
 [ IAM privilege Escalation ](https://hackingthe.cloud/aws/exploitation/iam_privilege_escalation/)
 
 [ Stealing IAM credentials through proc env](https://hackingthe.cloud/aws/exploitation/lambda-steal-iam-credentials/)
+
+[ Local Privilege Escalation-1 ](https://hackingthe.cloud/aws/exploitation/local-priv-esc-mod-instance-att/)
