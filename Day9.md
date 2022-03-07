@@ -16,6 +16,8 @@
 
 - [ Interesting flaw in password reset token ](https://infosecwriteups.com/how-i-discovered-an-interesting-account-takeover-flaw-18a7fb1e5359)
 
+- [ Password reset token leak via Referrer ](https://shahjerry33.medium.com/password-reset-token-leak-via-referrer-2e622500c2c1)
+
 # Tools
 
 - [ Hashmash ](https://github.com/rebootuser/Hashmash)
