@@ -12,6 +12,7 @@
 
 - [ Password reset vulnerability to look for ](https://0xayub.gitbook.io/blog/)
 
+- [ Presentation talk on password reset functionality](https://speakerdeck.com/anugrahsr/playing-with-password-reset-functionality?slide=35)
 # Tools
 
 - [ Hashmash ](https://github.com/rebootuser/Hashmash)
