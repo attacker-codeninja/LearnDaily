@@ -9,6 +9,9 @@
 - [ Changing password of other users using Homograph attack ](https://infosecwriteups.com/how-i-was-able-to-change-victims-password-using-idn-homograph-attack-587111843aff)
 
 - [ Weak Cryptographic algorithm in password reset token ](https://infosecwriteups.com/weak-cryptography-in-password-reset-to-full-account-takeover-fc61c75b36b9)
+
+- [ Password reset vulnerability to look for ](https://0xayub.gitbook.io/blog/)
+
 # Tools
 
 - [ Hashmash ](https://github.com/rebootuser/Hashmash)
