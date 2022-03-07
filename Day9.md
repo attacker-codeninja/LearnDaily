@@ -13,6 +13,9 @@
 - [ Password reset vulnerability to look for ](https://0xayub.gitbook.io/blog/)
 
 - [ Presentation talk on password reset functionality](https://speakerdeck.com/anugrahsr/playing-with-password-reset-functionality?slide=35)
+
+- [ Interesting flaw in password reset token ](https://infosecwriteups.com/how-i-discovered-an-interesting-account-takeover-flaw-18a7fb1e5359)
+
 # Tools
 
 - [ Hashmash ](https://github.com/rebootuser/Hashmash)
