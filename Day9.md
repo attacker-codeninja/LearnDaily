@@ -19,6 +19,9 @@
 - [ Password reset token leak via Referrer ](https://shahjerry33.medium.com/password-reset-token-leak-via-referrer-2e622500c2c1)
 
 - [ Password Reset poisoning escalation with ngrok ](https://vbharad.medium.com/account-takeover-through-password-reset-poisoning-72989a8bb8ea)
+
+- [ Parameter Pollution in password reset page ](https://medium.com/@0xankush/readme-com-account-takeover-bugbounty-fulldisclosure-a36ddbe915be)
+
 # Tools
 
 - [ Hashmash ](https://github.com/rebootuser/Hashmash)
