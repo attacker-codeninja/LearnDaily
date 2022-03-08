@@ -12,6 +12,8 @@
 
 - [ Password Reset Flaw using token ](https://infosecwriteups.com/how-i-was-able-to-take-over-any-account-via-the-password-reset-functionality-ef1659f8b481)
 
+- [ Hackerone Report - 1 ](https://hackerone.com/reports/342693)
+
 # Tweets
 
 - https://twitter.com/cyscol/status/1295805411241725954
