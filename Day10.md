@@ -9,3 +9,5 @@
 - [ Logic flaw in password reset function where we can able to change the api post data](https://ad3sh.medium.com/full-account-takeover-changing-email-and-password-of-any-user-through-api-parameters-3d527ab27240)
 
 - [ Security Question bypass in password reset flaw ](https://medium.com/@innocenthacker/how-i-found-the-most-critical-bug-in-live-bug-bounty-event-7a88b3aa97b3)
+
+- [ Password Reset Flaw using token ](https://infosecwriteups.com/how-i-was-able-to-take-over-any-account-via-the-password-reset-functionality-ef1659f8b481)
