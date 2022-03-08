@@ -11,3 +11,13 @@
 - [ Security Question bypass in password reset flaw ](https://medium.com/@innocenthacker/how-i-found-the-most-critical-bug-in-live-bug-bounty-event-7a88b3aa97b3)
 
 - [ Password Reset Flaw using token ](https://infosecwriteups.com/how-i-was-able-to-take-over-any-account-via-the-password-reset-functionality-ef1659f8b481)
+
+# Tweets
+
+- https://twitter.com/cyscol/status/1295805411241725954
+
+- https://twitter.com/HusseiN98D/status/1254888748216655872
+
+- https://mobile.twitter.com/secalert/status/1353303406044184577?s=20
+
+- 
