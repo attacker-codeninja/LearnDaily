@@ -9,3 +9,7 @@
 # BugBountyHunter-Reports
 
 - [ Password reset using guessable username ](https://www.bugbountyhunter.com/hackevents/report?id=580)
+
+# Hackerone Report
+
+- [ 2FA bypass through Null/Blank Code ](https://hackerone.com/reports/897385)
