@@ -8,4 +8,4 @@
 
 # BugBountyHunter-Reports
 
-- [ Password reset using guessable username ](https://www.bugbountyhunter.com/hackevents/report?id=629)
+- [ Password reset using guessable username ](https://www.bugbountyhunter.com/hackevents/report?id=580)
