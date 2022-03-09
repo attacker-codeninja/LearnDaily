@@ -13,3 +13,5 @@
 # Hackerone Report
 
 - [ 2FA bypass through Null/Blank Code ](https://hackerone.com/reports/897385)
+
+- [ Google Authenticator token leaks through response leads to 2FA bypass ](https://hackerone.com/reports/1276373)
