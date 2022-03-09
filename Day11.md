@@ -24,4 +24,4 @@
 
 # Videos
 
-- [ David Bombal interview with Stok ](https://youtu.be/-2eVJRBNzY0)
+- [ Tesla Default credentials leads to access 55+ Tesla cars ](https://youtu.be/rbcmQWJb1Yw)
