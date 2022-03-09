@@ -6,6 +6,8 @@
 
 - [ Password Reset leaked in Response ](https://medium.com/@noob.assassin/5k-misconfigured-reset-password-that-leads-to-account-takeover-no-user-interaction-ato-e6a36b8ef183)
 
+- [ Access Control Issue on Password reset ](https://medium.com/kminthein/account-takeover-in-cups-mail-ru-bdab1483f92c)
+
 # BugBountyHunter-Reports
 
 - [ Password reset using guessable username ](https://www.bugbountyhunter.com/hackevents/report?id=580)
