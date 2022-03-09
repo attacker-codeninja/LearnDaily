@@ -21,3 +21,7 @@
 - [ Takeover of any deleted user account through password reset ](https://hackerone.com/reports/230076)
 
 - [ Password Reset token leaks through referrer header ](https://hackerone.com/reports/751581)
+
+# Videos
+
+- [ David Bombal interview with Stok ](https://youtu.be/-2eVJRBNzY0)
