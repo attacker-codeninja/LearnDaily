@@ -17,3 +17,5 @@
 - [ Shopify Report on Improper Access control ](https://hackerone.com/reports/423496)
 
 - [ Email verification bypass in Wordpress ](https://hackerone.com/reports/1040047)
+
+- [ Email verification bypass in MTN ](https://hackerone.com/reports/1182016)
