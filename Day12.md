@@ -7,3 +7,5 @@
 - [ Abusing Switch account feature ](https://blog.securitybreached.org/2020/01/22/user-account-takeover-via-signup-feature-bug-bounty-poc/)
 
 - [ Able to register two accounts with the same mail id ](https://medium.com/techiepedia/p5-to-p1-intresting-account-takeover-6e59b879494b)
+
+- [ OTP based Signup feature abuse ](https://www.pethuraj.com/blog/bmw-bugbounty-writeup/)
