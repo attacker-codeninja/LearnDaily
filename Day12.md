@@ -11,3 +11,7 @@
 - [ OTP based Signup feature abuse ](https://www.pethuraj.com/blog/bmw-bugbounty-writeup/)
 
 - [ Zero day in Sign In with Apple feature ](https://bhavukjain.com/blog/2020/05/30/zeroday-signin-with-apple/)
+
+# Hackerone Report
+
+- [ Shopify Report on Improper Access control ](https://hackerone.com/reports/423496)
