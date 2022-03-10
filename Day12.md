@@ -19,3 +19,5 @@
 - [ Email verification bypass in Wordpress ](https://hackerone.com/reports/1040047)
 
 - [ Email verification bypass in MTN ](https://hackerone.com/reports/1182016)
+
+- [ Pre Auth account takeover in Uber through Signup ](https://hackerone.com/reports/143717)
