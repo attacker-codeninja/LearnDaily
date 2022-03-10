@@ -9,3 +9,5 @@
 - [ Able to register two accounts with the same mail id ](https://medium.com/techiepedia/p5-to-p1-intresting-account-takeover-6e59b879494b)
 
 - [ OTP based Signup feature abuse ](https://www.pethuraj.com/blog/bmw-bugbounty-writeup/)
+
+- [ Zero day in Sign In with Apple feature ](https://bhavukjain.com/blog/2020/05/30/zeroday-signin-with-apple/)
