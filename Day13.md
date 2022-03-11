@@ -6,6 +6,10 @@
 
 - [ SSRF in Imgur ](https://hackerone.com/reports/115748)
 
+# Hackerone Report
+
+- [ SSRF in DOD by Alyssa ](https://hackerone.com/reports/310036)
+
 - 
 # Tools / Resources
 
