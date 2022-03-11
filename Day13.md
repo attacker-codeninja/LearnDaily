@@ -4,6 +4,7 @@
 
 - [ SSRF Exploitation on DoD by Alyssa ](https://medium.com/bugbountywriteup/piercing-the-veil-server-side-request-forgery-to-niprnet-access-c358fd5e249a)
 
+- [ SSRF in Imgur ](https://hackerone.com/reports/115748)
 
 # Tools / Resources
 
