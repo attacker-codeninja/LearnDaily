@@ -13,3 +13,7 @@
 # Labs 
 
 - [ Minecraft Account takeover scenario ](https://labs.amakki.me/bugs/2/)
+
+# BugbountyHunter.com Disclosed Report
+
+- [ Reregistering the same user and takeover old account ](https://www.bugbountyhunter.com/hackevents/report?id=50)
