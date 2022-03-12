@@ -19,3 +19,5 @@
 - [ Reregistering the same user and takeover old account ](https://www.bugbountyhunter.com/hackevents/report?id=50)
 
 - [ One click Account takeover ](https://www.bugbountyhunter.com/hackevents/report?id=78)
+
+- [ Account takeover through API endpoint ](https://www.bugbountyhunter.com/hackevents/report?id=580)
