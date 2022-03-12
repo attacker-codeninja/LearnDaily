@@ -7,3 +7,5 @@
 - [ Account takeover through race condition ](https://blog.niksthehacker.com/account-takeover-using-race-condition-6e1624231cae)
 
 - [ Account takeover through HTTP leakage in email template ](https://infosecwriteups.com/unauthenticated-account-takeover-through-http-leak-33386bb0ba0b)
+
+- [ Minecraft Account takeover ](https://amakki.me/full-account-takeover-vulnerability-in-minecraft-f56076c8287d?gi=97c52c77eea5)
