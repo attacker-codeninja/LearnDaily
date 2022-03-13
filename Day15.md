@@ -9,3 +9,5 @@
 - [ Account takeover in banking application](https://infosecwriteups.com/internet-bank-account-takeover-of-1m-users-without-user-interaction-75bd184936c5)
 
 - [ Hacking Facebook - Part 1 ](https://infosecwriteups.com/how-i-hacked-facebook-part-one-282bbb125a5d)
+
+- [ Hacking Facebook - Part 2 ](https://infosecwriteups.com/how-i-hacked-facebook-part-two-ffab96d57b19)
