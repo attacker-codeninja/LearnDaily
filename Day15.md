@@ -7,3 +7,5 @@
 - [ Account takeover through Open redirect by stealing JWT token ](https://infosecwriteups.com/eye-for-an-eye-unusual-single-click-jwt-token-takeover-2e58f88cf44d)
 
 - [ Account takeover in banking application](https://infosecwriteups.com/internet-bank-account-takeover-of-1m-users-without-user-interaction-75bd184936c5)
+
+- [ Hacking Facebook - Part 1 ](https://infosecwriteups.com/how-i-hacked-facebook-part-one-282bbb125a5d)
