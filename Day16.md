@@ -5,3 +5,7 @@
 - [ IDOR in forgot password page and leaks PII data ](https://infosecwriteups.com/pii-leakage-via-idor-weak-passwordreset-full-account-takeover-58d159f88d73)
 
 - [ Stored XSS in medium chained with account takeover ](https://infosecwriteups.com/writing-my-medium-blog-to-complete-account-takeover-e65d455c16b)
+
+# Hackerone Reports
+
+- [ Twitter account takeover through host header ](https://hackerone.com/reports/317476)
