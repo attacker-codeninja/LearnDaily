@@ -5,3 +5,5 @@
 - [ Able to change mail ID through CSRF and get Victim forgot password Link ](https://bugreader.com/_imjitendra_@account-takeover-via-csrf-260)
 
 - [ CSRF in Google RDP leads to disclosure of victim's email ](https://bugreader.com/mustafa0x2020@csrf-disclose-email-in-google-242)
+
+- [ Anti-CSRF token bypass ](https://bugreader.com/ahmad_halabi@bypass-csrf-protection-lead-to-account-takeover-192)
