@@ -9,3 +9,5 @@
 - [ Anti-CSRF token bypass ](https://bugreader.com/ahmad_halabi@bypass-csrf-protection-lead-to-account-takeover-192)
 
 - [ Able to change the mail id of victim through CSRF in Facebook ](https://bugreader.com/jieryn@csrf-in-email-confirmation-when-using-outlook-171)
+
+- [ CSRF on accepting pending friend Request ](https://bugreader.com/jubabaghdad@csrf-bug-force-users-to-accept-friendship-pending-request-in-wtsocial-125)
