@@ -9,3 +9,5 @@
 - [ CSRF leads to takeover other users appointments on Facebook](https://bugreader.com/jieryn@csrf-in-syncing-appointment-to-google-calendar-119)
 
 - [ All about CSRF bypass by zseano ](https://www.bugbountyhunter.com/vulnerability/?type=csrf)
+
+- [ CSRF bypass through Clickjack ](https://blog.bugbountyhunter.com/improper-csrf-handling/)
