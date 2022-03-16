@@ -3,3 +3,5 @@
 - [ CSRF on unfollow request ](https://bugreader.com/jubabaghdad@csrf-bug-force-other-users-to-join-or-leave-subwikis-in-wt-social-124)
 
 - [ CSRF on deactivate account ](https://bugreader.com/jubabaghdad@csrf-bug-deactivate-other-users-accounts-in-wtsocial-123)
+
+- [ CSRF on update or delete a comment ](https://bugreader.com/jubabaghdad@csrf-bug-edit-delete-and-hide-other-users-comments-in-wtsocial-122)
