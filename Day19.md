@@ -7,3 +7,5 @@
 - [ Bypassing default visibility for newly-added email in Facebook(Part I - Submitting I.D ](https://medium.com/@Kntjrld/bypassing-default-visibility-for-newly-added-email-in-facebook-part-i-submitting-i-d-da78142f032d)
 
 - [ Bypassing default visibility for newly-added email in Facebook(Part II - Submitting I.D)](https://medium.com/@Kntjrld/bypassing-default-visibility-for-newly-added-email-in-facebook-part-ii-trusted-contacts-36176eeb103)
+
+- [ Spoof any Instagram Username in Instagram shop to other seller ](https://medium.com/@nvmeeet/how-i-was-able-to-spoof-any-instagram-username-on-instagram-shop-b4d6abdb474a)
