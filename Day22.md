@@ -11,3 +11,5 @@
 # Videos
 
 - [ RCE in GitHub actions ](https://youtu.be/GrmvMfRZiNk)
+
+- [ Log4j explained ](https://youtu.be/OS5lY3-M6tw)
