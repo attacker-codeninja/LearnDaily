@@ -15,3 +15,5 @@
 # Videos to watch
 
 - [ 100k $ worth UXSS on Apple ](https://youtu.be/Yt1a3j-U2zI)
+
+- [ Stealing internal creds Through Stored XSS in gitlab ](https://youtu.be/5dneugeMSso)
