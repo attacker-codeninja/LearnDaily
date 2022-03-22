@@ -5,3 +5,5 @@
 - [ Access tokens of Facebook Employee through the binary ](https://www.vulnano.com/2021/09/facebook-messenger-for-macos-contained.html?fbclid=IwAR2iT6KOZYRE6xaAjDRtDWqmyyZSmLK_UBXz3_L7x9OtqbQ04bkLJB_jIQE&m=1)
 
 - [ Facebook email disclosure and Possible account takeover ](https://medium.com/pentesternepal/facebook-email-disclosure-and-account-takeover-ecdb44ee12e9)
+
+- [ 2 FA bypass in Facebook Buisness manager ](https://theshubh77.medium.com/bypassing-2-factor-authentication-for-facebook-business-manager-bounty-1000-usd-c78c858459d6)
