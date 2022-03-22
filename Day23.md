@@ -11,3 +11,7 @@
 - [ IDOR in Instagram tag functionality](https://medium.com/@mohamedajimi59/idor-enable-allow-facebook-stories-shared-from-instagram-to-tag-my-page-as-non-admin-c5bdf597684a)
 
 - [ WhatsApp number disclosure in Instagram ](https://www.yesnaveen.com/2021/12/whatsapp-number-disclosure.html?m=1)
+
+# Videos to watch
+
+- [ 100k $ worth UXSS on Apple ](https://youtu.be/Yt1a3j-U2zI)
