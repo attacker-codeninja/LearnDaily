@@ -7,3 +7,7 @@
 - [ Exposed Group member disclosure ](https://medium.com/@muhammadsholikhin/facebook-vulnerability-expose-group-member-3000-cca809a53f6b)
 
 - [ IDOR in delete document cover ](https://medium.com/@muhammadsholikhin/facebook-vulnerability-1500-for-removing-document-cover-9ffd0173877b)
+
+# Videos to watch
+
+- [ CSRF on YouTube TV able to watch other user private videos ](https://youtu.be/miQvovD3c04)
