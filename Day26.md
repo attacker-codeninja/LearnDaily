@@ -4,6 +4,8 @@
 
 - [ Simple Bug in Facebook create event functionality](https://sndpgiriz.medium.com/simple-logical-bug-turned-into-a-bounty-a3d7ac214606)
 
+- [ Deanonmization vuln in Facebook through update phone number function](https://ysamm.com/?p=691)
+
 # Videos to watch
 
 - [ Hackexplained's Different ways to Grab the domains ](https://youtu.be/Tqa-bgit0RQ)
