@@ -6,6 +6,8 @@
 
 - [ Deanonmization vuln in Facebook through update phone number function](https://ysamm.com/?p=691)
 
+- [ Access to Facebook workplace through IDOR ](https://mvinni.medium.com/workplace-by-facebook-unauthorized-access-to-companies-environment-27-5k-a593a57092f1)
+
 # Videos to watch
 
 - [ Hackexplained's Different ways to Grab the domains ](https://youtu.be/Tqa-bgit0RQ)
