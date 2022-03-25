@@ -2,6 +2,7 @@
 
 - [ Third party apps still has access to Facebook account data even after the expiry](https://infosecwriteups.com/third-party-apps-were-still-getting-your-private-facebook-data-even-after-their-access-expiry-6e4be4880e6e)
 
+- [ Simple Bug in Facebook create event functionality](https://sndpgiriz.medium.com/simple-logical-bug-turned-into-a-bounty-a3d7ac214606)
 
 # Videos to watch
 
