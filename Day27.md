@@ -9,3 +9,7 @@
 - [ BrokenLinkHijack leads to takeover all unverified Facebook pages ](https://sndpgiriz.medium.com/facebook-bug-bounty-hijack-facebook-user-due-to-broken-link-on-facebook-shop-feature-on-ios-1b008685b548)
 
 - [ Facebook internal builds disclosure ](https://philippeharewood.com/download-facebook-internal-mobile-builds/)
+
+# Videos to watch
+
+- [ Accidentally find leads to $50,000 bounty in shopify ](https://youtu.be/TOgIgD0KUVs)
