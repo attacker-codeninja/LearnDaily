@@ -11,3 +11,7 @@
 - [ IDOR in page comment and update ](https://gevakun.medium.com/join-facebook-group-with-unpublish-page-cb649a20fb0e)
 
 - [ IDOR in Manage collections in Facebook pages ](https://bugreader.com/bassembazzoun_@disclose-hidden-product-images-by-featuring-a-non-owned-collection-on-home-page-of-the-shop-245)
+
+# Videos to watch
+
+- [ Stealing GitHub API token through PR ](https://youtu.be/xbSCRbfMOr4)
