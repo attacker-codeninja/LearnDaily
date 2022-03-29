@@ -15,3 +15,5 @@
 # Videos to watch
 
 - [ Stealing GitHub API token through PR ](https://youtu.be/xbSCRbfMOr4)
+
+- [ RCE in Apple through a zero day](https://youtu.be/jvbv12zztFw)
