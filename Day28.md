@@ -7,3 +7,5 @@
 - [ Undeletable event in Facebook group ](https://randyarios.medium.com/low-hanging-fruits-on-facebook-group-room-b8d17c7ea886)
 
 - [ Attacker can't blocked by the victim in Facebook messenger ](https://infosecwriteups.com/the-invincible-kid-7ac1ce2887c0)
+
+- [ IDOR in page comment and update ](https://gevakun.medium.com/join-facebook-group-with-unpublish-page-cb649a20fb0e)
