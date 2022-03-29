@@ -9,3 +9,5 @@
 - [ Attacker can't blocked by the victim in Facebook messenger ](https://infosecwriteups.com/the-invincible-kid-7ac1ce2887c0)
 
 - [ IDOR in page comment and update ](https://gevakun.medium.com/join-facebook-group-with-unpublish-page-cb649a20fb0e)
+
+- [ IDOR in Manage collections in Facebook pages ](https://bugreader.com/bassembazzoun_@disclose-hidden-product-images-by-featuring-a-non-owned-collection-on-home-page-of-the-shop-245)
