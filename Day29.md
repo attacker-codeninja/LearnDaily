@@ -11,3 +11,5 @@
 # Labs to solve 
 
 - [ Web cache poisoning with unkeyed header ](https://portswigger.net/web-security/web-cache-poisoning/exploiting-design-flaws/lab-web-cache-poisoning-with-an-unkeyed-header)
+
+- [ Web cache poisoning through unkeyed cookie ](https://portswigger.net/web-security/web-cache-poisoning/exploiting-design-flaws/lab-web-cache-poisoning-with-an-unkeyed-cookie)
