@@ -7,3 +7,7 @@
 # Blogs to Read
 
 - [ Cracking the Lens - Blog by James kettle](https://portswigger.net/research/cracking-the-lens-targeting-https-hidden-attack-surface)
+
+# Labs to Work on
+
+- [ Portswigger lab on web cache - 3 ](https://portswigger.net/web-security/web-cache-poisoning/exploiting-design-flaws/lab-web-cache-poisoning-with-multiple-headers)
