@@ -9,3 +9,5 @@
 # Blogs to Read
 
 - [ Invicti's Blog on web cache attack and various attack types ](https://www.invicti.com/blog/web-security/web-cache-poisoning-introduction/)
+
+- [ Cache poisoning at scale by youstin ](https://youst.in/posts/cache-poisoning-at-scale/)
