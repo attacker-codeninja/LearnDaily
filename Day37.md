@@ -7,3 +7,5 @@
 - [ Privacy Related issues on Facebook writeup ](https://medium.com/@RheyJuls/privacy-disclosure-on-facebook-lite-after-creating-a-post-b12a1cad8d8a)
 
 - [ Javascript polyglot XSS on to a JPEG image ](https://medium.com/@Medusa0xf/exploiting-xss-with-javascript-jpeg-polyglot-4cff06f8201a)
+
+- [ Abusing trial Signup option in stripe ](https://medium.com/@colinwinhall/stripe-checkout-misconfiguration-leads-to-an-unlimited-trial-period-b47ba481a249)
