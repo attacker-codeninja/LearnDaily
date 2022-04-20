@@ -5,3 +5,7 @@
 - [ IDOR on 2FA functionality by changing other user id ](https://hackerone.com/reports/810880)
 
 - [ Account takeover via unconfirmed email signup ](https://hackerone.com/reports/538800)
+
+# Blogs to Read
+
+- [ Access control on password reset functionality on mail.ru ](https://medium.com/kminthein/account-takeover-in-cups-mail-ru-bdab1483f92c)
