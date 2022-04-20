@@ -8,6 +8,7 @@
 
 - [ Account takeover in password reset functionality and code discloses in response ](https://hackerone.com/reports/1379842)
 
+- [ Account takeover via email verification bypass ](https://hackerone.com/reports/915110)
 # Blogs to Read
 
 - [ Access control on password reset functionality on mail.ru ](https://medium.com/kminthein/account-takeover-in-cups-mail-ru-bdab1483f92c)
