@@ -20,4 +20,4 @@
 
 # Videos to watch
 
-- [ How not to be lazy and stay focused ](https://youtu.be/NKyyF9MQXn4)
+- [ Nahamsec Interview with ippsec ](https://youtu.be/3R2HkX-opeQ)
