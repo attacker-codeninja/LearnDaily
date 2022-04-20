@@ -12,6 +12,7 @@
 
 - [ CSRF on change password and change security questions](https://hackerone.com/reports/1208453)
 
+- [ IDOR on update email where we can change other users email ](https://hackerone.com/reports/950881)
 
 # Blogs to Read
 
