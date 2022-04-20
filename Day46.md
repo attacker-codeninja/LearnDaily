@@ -6,6 +6,8 @@
 
 - [ Account takeover via unconfirmed email signup ](https://hackerone.com/reports/538800)
 
+- [ Account takeover in password reset functionality and code discloses in response ](https://hackerone.com/reports/1379842)
+
 # Blogs to Read
 
 - [ Access control on password reset functionality on mail.ru ](https://medium.com/kminthein/account-takeover-in-cups-mail-ru-bdab1483f92c)
