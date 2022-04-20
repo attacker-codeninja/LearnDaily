@@ -17,3 +17,7 @@
 # Blogs to Read
 
 - [ Access control on password reset functionality on mail.ru ](https://medium.com/kminthein/account-takeover-in-cups-mail-ru-bdab1483f92c)
+
+# Videos to watch
+
+- [ How not to be lazy and stay focused ](https://youtu.be/NKyyF9MQXn4)
