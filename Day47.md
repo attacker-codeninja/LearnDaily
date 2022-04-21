@@ -7,3 +7,5 @@
 - [ Cross domain leakage or Password reset token got leaked via referrer header](https://hackerone.com/reports/209352)
 
 - [ Host header Injection on reset password in US dept of defence program](https://hackerone.com/reports/1108874)
+
+- [ Clickjacking chained with multiple obsecurity and vulns in imgur](https://hackerone.com/reports/892289)
