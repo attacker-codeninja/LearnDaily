@@ -9,3 +9,5 @@
 - [ Host header Injection on reset password in US dept of defence program](https://hackerone.com/reports/1108874)
 
 - [ Clickjacking chained with multiple obsecurity and vulns in imgur](https://hackerone.com/reports/892289)
+
+- [ CSRF on link account functionality](https://hackerone.com/reports/225653)
