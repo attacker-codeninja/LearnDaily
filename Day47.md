@@ -19,3 +19,7 @@
 - [ IDOR via cookie ](https://zonduu.medium.com/idor-in-session-cookie-leading-to-mass-account-takeover-d815ff3732d5)
 
 - [ OTP bypass leads to access admin panel ](https://logicbomb.medium.com/otp-bypass-account-takeover-to-admin-panel-ft-header-injection-16f2982a0136)
+
+# Cheatsheet 
+
+- [ Easy P4 Wins to look for ](https://drive.google.com/file/d/1VTratRpmzvPMU4BcLjY11Nfr0LDnkxxA/view)
