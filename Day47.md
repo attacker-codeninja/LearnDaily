@@ -11,3 +11,7 @@
 - [ Clickjacking chained with multiple obsecurity and vulns in imgur](https://hackerone.com/reports/892289)
 
 - [ CSRF on link account functionality](https://hackerone.com/reports/225653)
+
+# Blogs to Read 
+
+- [ IDOR via cookie ](https://zonduu.medium.com/idor-in-session-cookie-leading-to-mass-account-takeover-d815ff3732d5)
