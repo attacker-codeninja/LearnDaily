@@ -12,6 +12,8 @@
 
 - [ CSRF on link account functionality](https://hackerone.com/reports/225653)
 
+- [ Unauthenicated Cache purge ](https://hackerone.com/reports/154278)
+
 # Blogs to Read 
 
 - [ IDOR via cookie ](https://zonduu.medium.com/idor-in-session-cookie-leading-to-mass-account-takeover-d815ff3732d5)
