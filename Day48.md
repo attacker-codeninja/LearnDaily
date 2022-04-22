@@ -15,3 +15,5 @@
 - [ IDOR in auto mail functionality on support page ](https://hackerone.com/reports/592090)
 
 - [ IDOR in view other user contents on my contents ](https://hackerone.com/reports/915127)
+
+- [ IDOR in payment gateway on affirm leaks other users purchase details ](https://hackerone.com/reports/1323406)
