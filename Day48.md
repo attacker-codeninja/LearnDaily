@@ -17,3 +17,5 @@
 - [ IDOR in view other user contents on my contents ](https://hackerone.com/reports/915127)
 
 - [ IDOR in payment gateway on affirm leaks other users purchase details ](https://hackerone.com/reports/1323406)
+
+- [ IDOR in export CSV functionality leaks other users reports on hackerone ](https://hackerone.com/reports/510759)
