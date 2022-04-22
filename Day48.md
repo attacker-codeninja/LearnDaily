@@ -13,3 +13,5 @@
 - [ IDOR in apply form request on stream labs ](https://hackerone.com/reports/983070)
 
 - [ IDOR in auto mail functionality on support page ](https://hackerone.com/reports/592090)
+
+- [ IDOR in view other user contents on my contents ](https://hackerone.com/reports/915127)
