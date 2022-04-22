@@ -21,3 +21,5 @@
 - [ IDOR in export CSV functionality leaks other users reports on hackerone ](https://hackerone.com/reports/510759)
 
 - [ IDOR in Semrush where what other users were registered for course ](https://hackerone.com/reports/783708)
+
+- [ IDOR leaks other users email id via adding comment functionality](https://hackerone.com/reports/1410498)
