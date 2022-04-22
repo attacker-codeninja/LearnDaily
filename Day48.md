@@ -9,3 +9,5 @@
 - [ IDOR in deleting other users photos ](https://hackerone.com/reports/404797)
 
 - [ IDOR via calender_id leaks user_id's of other user ](https://hackerone.com/reports/797685)
+
+- [ IDOR in apply form request on stream labs ](https://hackerone.com/reports/983070)
