@@ -11,3 +11,5 @@
 - [ IDOR via calender_id leaks user_id's of other user ](https://hackerone.com/reports/797685)
 
 - [ IDOR in apply form request on stream labs ](https://hackerone.com/reports/983070)
+
+- [ IDOR in auto mail functionality on support page ](https://hackerone.com/reports/592090)
