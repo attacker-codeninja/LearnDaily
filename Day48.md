@@ -19,3 +19,5 @@
 - [ IDOR in payment gateway on affirm leaks other users purchase details ](https://hackerone.com/reports/1323406)
 
 - [ IDOR in export CSV functionality leaks other users reports on hackerone ](https://hackerone.com/reports/510759)
+
+- [ IDOR in Semrush where what other users were registered for course ](https://hackerone.com/reports/783708)
