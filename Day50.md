@@ -17,3 +17,5 @@
 - [ XSS via post message on Upserve ](https://hackerone.com/reports/603764)
 
 - [ XSS in hackerone asset which triggers IE only ](https://hackerone.com/reports/449351)
+
+- [ Stored Self XSS chained with CSRF ](https://hackerone.com/reports/323005)
