@@ -5,3 +5,5 @@
 - [ Wormable XSS affects other users and steal other users NFT ](https://palisade.consulting/blog/rarible-vulnerability)
 
 - [ SQL injection in Harvard subdomain ](https://medium.com/pentesternepal/sql-injection-in-harvards-subdomain-c3148f8be156)
+
+- [ Writeup related to ENS domain name on smart contract ](https://medium.com/@hacxyk/how-we-spoofed-ens-domains-52acea2079f6)
